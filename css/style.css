@@ -1,0 +1,52 @@
+body {
+    font-family: 'Quicksand';
+    overflow-x: hidden;
+}
+
+.bg-nav {
+    background-color: #303030;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+   color: white;
+}
+
+.copyright {
+    margin-top: 4.55rem!important;
+    color: white;
+}
+
+
+/* Nous trouver */
+
+
+
+/* Boutique */
+
+.image {
+    width: 12.5rem;
+    height: 12.5rem;
+    border: solid black 0.10rem;
+}
+
+.backgroundimg {
+    background-image: url("../images/adrian-korte-5gn2soeAc40-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.bodyshop{
+    color: black;
+}
+
+.bouton {
+    background-color: black;
+    color: white;
+    border-radius: 1rem ;
+    border: none;
+}
